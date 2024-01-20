@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ramanjs
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ramanjs/syncd
+  - ramanjs/vxgi
+  - ramanjs/dotfiles
+  - ramanjs/tank-stars
+  - ramanjs/btech-induction-2022
+  - ramanjs/apetalk
