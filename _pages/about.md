@@ -21,7 +21,7 @@ My main interests lie in systems and networking. I am learning more about the Li
 
 I am also interested in data plane programming and have been exploring technologies like P4 and SmartNICs.
 
-At IIIT Delhi, I've had the opportunity to contribute to multiple projects. I was a backend developer for [Enveave](https://enveave.earth), a non-profit environment initiative focused on sustainability. Additionally, I served as a maintainer for multiple institute websites, including the facility hub at [MIDAS Labs](https://midas.iiitd.ac.in/).
+At IIIT Delhi, I've had the opportunity to contribute to multiple projects. I was a backend developer for [Enveave](https://www.enveave.earth), a non-profit environment initiative focused on sustainability. Additionally, I served as a maintainer for multiple institute websites, including the facility hub at [MIDAS Labs](https://midas.iiitd.ac.in/).
 
 Since Fall 2024, I have been working on my B. Tech Thesis titled "AI/ML Workloads for Data Center Networking" under the guidance of [Prof. Rinku Shah](https://faculty.iiitd.ac.in/~rinku/).
 
