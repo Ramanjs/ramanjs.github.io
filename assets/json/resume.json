@@ -30,7 +30,13 @@
       "startDate": "2023-05-20",
       "endDate": "2023-07-30",
       "summary": "Worked as a backend developer at Eveave, a non-profit environmental initiative, actively coordinating with the frontend team to address issues, implement new features, and ensure seamless integration",
-      "highlights": ["Substituted AWS Cloudwatch canaries with a cron job for frontend diagnostics, saving $47 (26%) monthly operating expenses.", "Implemented real-time autocomplete functionality using MongoDB Atlas Search for efficient user search on the platform.", "Architected and implemented a testing strategy using Jest and Faker, added 65 integration tests with code coverage of 73%", "Added continuous integration and deployment workflows for automating backend testing and deployments using GitHub Actions and AWS Copilot.", "Utilized Selenium to perform web scraping of environmental NGOs, extracting data sets to facilitate targeted outreach."]
+      "highlights": [
+        "Substituted AWS Cloudwatch canaries with a cron job for frontend diagnostics, saving $47 (26%) monthly operating expenses.",
+        "Implemented real-time autocomplete functionality using MongoDB Atlas Search for efficient user search on the platform.",
+        "Architected and implemented a testing strategy using Jest and Faker, added 65 integration tests with code coverage of 73%",
+        "Added continuous integration and deployment workflows for automating backend testing and deployments using GitHub Actions and AWS Copilot.",
+        "Utilized Selenium to perform web scraping of environmental NGOs, extracting data sets to facilitate targeted outreach."
+      ]
     }
   ],
   "education": [
@@ -43,7 +49,16 @@
       "startDate": "2021-12-28",
       "endDate": "2025-05-15",
       "score": "8.72",
-      "courses": ["Algorithm Design and Analysis", "Statistical Machine Learning", "Computer Networks", "Database Management Systems", "Operating Systems", "Computer Graphics", "Distributed Systems", "Theory of Computation"]
+      "courses": [
+        "Algorithm Design and Analysis",
+        "Statistical Machine Learning",
+        "Computer Networks",
+        "Database Management Systems",
+        "Operating Systems",
+        "Computer Graphics",
+        "Distributed Systems",
+        "Theory of Computation"
+      ]
     }
   ],
   "skills": [
@@ -51,30 +66,27 @@
       "name": "Languages",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "JavaScript/TypeScript", "C++", "Java", "SQL"
-      ]
+      "keywords": ["JavaScript/TypeScript", "C++", "Java", "SQL"]
     },
     {
       "name": "Libraries and Frameworks",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "React", "NextJS", "Node.js", "OpenGL"
-      ]
+      "keywords": ["React", "NextJS", "Node.js", "OpenGL"]
     },
     {
       "name": "Developer Tools",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Vim", "Git", "Linux", "AWS", "CMake"
-      ]
+      "keywords": ["Vim", "Git", "Linux", "AWS", "CMake"]
     }
   ],
   "projects": [
     {
       "name": "Real Time Global Illumination",
       "summary": "Developed a real-time rendering engine by adapting the approach from the paper ”Interactive Global Illumination Using Voxel Cone Tracing” by Crassin et al.",
-      "highlights": ["Implemented voxelization using a regular 3D grid texture to store direct lighting information", "Employed cone tracing techniques to simulate indirect lighting, enhancing the realism of the rendered scenes"],
+      "highlights": [
+        "Implemented voxelization using a regular 3D grid texture to store direct lighting information",
+        "Employed cone tracing techniques to simulate indirect lighting, enhancing the realism of the rendered scenes"
+      ],
       "startDate": "2023-10-01",
       "endDate": "2023-12-12",
       "url": "https://github.com/ramanjs/vxgi"
@@ -82,7 +94,11 @@
     {
       "name": "Syncd",
       "summary": "A CLI tool to backup local folders to Google Drive",
-      "highlights": ["Developed a file-tracking system with an optimised diffing algorithm to identify and track file modifications.", "Utilized an SQLite database with indexes to enhance performance and ensure persistent storage.", "Implemented a highly efficient Worker Thread Pool to compute file checksums, resulting in a 50% reduction in processing time."],
+      "highlights": [
+        "Developed a file-tracking system with an optimised diffing algorithm to identify and track file modifications.",
+        "Utilized an SQLite database with indexes to enhance performance and ensure persistent storage.",
+        "Implemented a highly efficient Worker Thread Pool to compute file checksums, resulting in a 50% reduction in processing time."
+      ],
       "startDate": "2023-04-10",
       "endDate": "2023-06-20",
       "url": "https://github.com/ramanjs/syncd"
@@ -90,7 +106,11 @@
     {
       "name": "Programming Language Interpreter",
       "summary": "Created a tree-walking interpreter for a subset of C programming language",
-      "highlights": ["Implemented a lexer, recursive descent parser, and evaluator entirely from scratch in Go.", "Architected extensive test suites, achieving a code coverage of 86%.", "Added support for higher-order functions, closures and integer arithmetic"],
+      "highlights": [
+        "Implemented a lexer, recursive descent parser, and evaluator entirely from scratch in Go.",
+        "Architected extensive test suites, achieving a code coverage of 86%.",
+        "Added support for higher-order functions, closures and integer arithmetic"
+      ],
       "startDate": "2023-05-10",
       "endDate": "2023-07-20",
       "url": "https://github.com/ramanjs/apetalk"
