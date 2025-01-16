@@ -2,10 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A few of the projects I worked on during my time at IIIT Delhi
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
 
